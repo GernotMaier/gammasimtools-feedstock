@@ -130,6 +130,8 @@ about:
   summary: Tools for the Simulation System of the CTA Observatory
   license: BSD-3-Clause
   license_file: LICENSE
+  description: |
+    Simulation tools and applications for the Cherenkov Telescope Array (CTAO).
 
 extra:
   recipe-maintainers:
